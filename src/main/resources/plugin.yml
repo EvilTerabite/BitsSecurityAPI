@@ -1,0 +1,6 @@
+name: BitsSecurityAPI
+version: ${project.version}
+main: me.evilterabite.bitssecurityapi.BitsSecurityAPI
+api-version: 1.16
+authors: [ evilterabite ]
+description: an API for developers
